@@ -1,0 +1,80 @@
+.selector {
+    width: 170px;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    color: #2c2b31;
+    font-size: 21.69px;
+    font-style: bold;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.selector::after {
+    content: url('../../images/down.svg');
+    position: absolute;
+    pointer-events: none;
+    cursor: pointer;
+    right: 9px;
+}
+
+.label {
+    color: #2c2b31;
+    text-align: center;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 4px;
+}
+
+.container {
+    padding: 0 16px 0 16px;
+    margin-top: 20px;
+    display: flex;
+    gap: 16px;
+}
+
+.dropdown {
+    li {
+        cursor: pointer;
+    }
+
+    li:hover {
+        opacity: 0.6;
+        transition: opacity 0.3s ease-out;
+    }
+
+    visibility: hidden;
+    transition: visibility 0.3s ease-in-out;
+    background-color: #ffffff;
+    border-radius: 10px;
+    color: #2c2b31;
+    font-size: 21.69px;
+    font-style: bold;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    z-index: 1;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    width: 170px;
+    top: 69px;
+}
+
+.open {
+    visibility: visible;
+}
+
+.input {
+    position: relative;
+}
