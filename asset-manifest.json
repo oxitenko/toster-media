@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/toster-media/static/css/main.bb0630fb.css",
+    "main.js": "/toster-media/static/js/main.51ef3844.js",
+    "static/media/main-showcase.png": "/toster-media/static/media/main-showcase.34717c0c87ffde833f04.png",
+    "static/media/orange.png": "/toster-media/static/media/orange.fd71bacbda059c4a672e.png",
+    "static/media/yellow.png": "/toster-media/static/media/yellow.fcdf389863b6776643f9.png",
+    "static/media/pink.png": "/toster-media/static/media/pink.dff32c77480150a8c738.png",
+    "static/media/black.png": "/toster-media/static/media/black.38eed3dc820d8b17328c.png",
+    "static/media/gothampro_bold.ttf": "/toster-media/static/media/gothampro_bold.764ba13de4409a990823.ttf",
+    "static/media/gothampro_medium.ttf": "/toster-media/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf",
+    "static/media/gothampro.ttf": "/toster-media/static/media/gothampro.4f71921a0823129cd8ba.ttf",
+    "static/media/logo.svg": "/toster-media/static/media/logo.cca45efcf1f3f325ae200593d4ebce2e.svg",
+    "static/media/trustpilot.svg": "/toster-media/static/media/trustpilot.f30e793df25417dd983eb2e69d5f22b9.svg",
+    "static/media/stars.svg": "/toster-media/static/media/stars.e47d6f82cae4cff708668be867293d83.svg",
+    "index.html": "/toster-media/index.html",
+    "static/media/down.svg": "/toster-media/static/media/down.9719c9301f8e9c401ff9.svg",
+    "main.bb0630fb.css.map": "/toster-media/static/css/main.bb0630fb.css.map",
+    "main.51ef3844.js.map": "/toster-media/static/js/main.51ef3844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb0630fb.css",
+    "static/js/main.51ef3844.js"
+  ]
+}
